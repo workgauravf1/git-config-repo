@@ -1,5 +1,4 @@
-clientId: ${clientId}
-clientPassword: ${clientPassword}
+
 test:
     message: gaurav vai
     note: remember
