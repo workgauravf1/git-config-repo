@@ -1,8 +1,8 @@
 spring:
     datasource:
-        password: ${password}
+        password: ${root}
         url: jdbc:mysql://localhost:3306/FONE_INVEST_CUSTOMER?serverTimezone=Asia/Kathmandu
-        username: ${username}
+        username: ${root}
     jpa:
         hibernate:
             naming:
