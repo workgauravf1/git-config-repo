@@ -1,4 +1,8 @@
-
+spring:
+    datasource:
+        password: ${password}
+        url: jdbc:mysql://localhost:3306/FONE_INVEST_CUSTOMER?serverTimezone=Asia/Kathmandu
+        username: ${username}
 test:
     message: gaurav kumal
     note: remember
